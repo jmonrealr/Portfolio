@@ -1,7 +1,11 @@
-# Cleanfolio minimal - a clean and simple portfolio template built in plain HTML, CSS and JS
+# Portfolio
 
-## Preview
+# License
 
-![imgur preview](https://i.imgur.com/5z7cvMz.gif)
+Template By: 
+```
+MIT License
 
-[Live Preview](https://rajshekhar26.github.io/cleanfolio-minimal)
+Copyright (c) 2021 Raj Shekhar
+```
+
